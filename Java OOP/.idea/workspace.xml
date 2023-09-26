@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41801888-3368-46e8-bf78-c73a7a192211" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/EncapsulationExercises/PizzaCalories/Pizza.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2M3XQgQkusBPMJeLZUVq2AElYNl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/Java OOP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="InterfacesAndAbstractionLab.CarShop" />
+      <recent name="InheritanceExercises.PlayersAndMonsters" />
+      <recent name="EncapsulationExercises.PizzaCalories" />
+      <recent name="LabEncapsulation.SalaryIncrease" />
+      <recent name="WorkingWithAbstractionExercise.TrafficLights" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\Java OOP\src\interfacesAndAbstractionExercises\multipleImplementation" />
+      <recent name="C:\Users\user\IdeaProjects\Java OOP\src\InterfacesAndAbstractionLab\CarShopExtended" />
+      <recent name="C:\Users\user\IdeaProjects\Java OOP\src" />
+      <recent name="C:\Users\user\IdeaProjects\Java OOP\src\LabEncapsulation\EncapsulationExercises\ShoppingSpree" />
+      <recent name="C:\Users\user\IdeaProjects\Java OOP\src\WorkingWithAbstractionExercise" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\Java OOP\src\InheritanceExercises\NeedForSpeed" />
+      <recent name="C:\Users\user\IdeaProjects\Java OOP\src\InheritanceExercises" />
+      <recent name="C:\Users\user\IdeaProjects\Java OOP\src\LabEncapsulation\EncapsulationExercises" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="labReflectionAndAnnotations.highQualityMistakes" />
+      <recent name="labReflectionAndAnnotations.gettersAndSetters" />
+      <recent name="interfacesAndAbstractionExercises.foodShortage" />
+      <recent name="InterfacesAndAbstractionLab.SayHelloExtended" />
+      <recent name="LabInheritance.HierarchicalInheritance" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41801888-3368-46e8-bf78-c73a7a192211" name="Changes" comment="" />
+      <created>1676997224385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676997224385</updated>
+      <workItem from="1677783422328" duration="82000" />
+      <workItem from="1677783513263" duration="211000" />
+      <workItem from="1677783909119" duration="1062000" />
+      <workItem from="1677840308457" duration="777000" />
+      <workItem from="1677854297574" duration="6307000" />
+      <workItem from="1677882579025" duration="4018000" />
+      <workItem from="1677886685877" duration="1962000" />
+      <workItem from="1677889123748" duration="35000" />
+      <workItem from="1677925152570" duration="6887000" />
+      <workItem from="1677945499216" duration="349000" />
+      <workItem from="1677970469342" duration="683000" />
+      <workItem from="1678048426750" duration="6542000" />
+      <workItem from="1678122696194" duration="9964000" />
+      <workItem from="1678138395334" duration="723000" />
+      <workItem from="1678139307330" duration="623000" />
+      <workItem from="1678228424878" duration="1155000" />
+      <workItem from="1678298499308" duration="5608000" />
+      <workItem from="1678370067961" duration="2055000" />
+      <workItem from="1678372187962" duration="4707000" />
+      <workItem from="1678398786562" duration="2978000" />
+      <workItem from="1678616893532" duration="25000" />
+      <workItem from="1678616954668" duration="457000" />
+      <workItem from="1678739325610" duration="8000" />
+      <workItem from="1678816442827" duration="9138000" />
+      <workItem from="1678977984248" duration="5976000" />
+      <workItem from="1679177686696" duration="7108000" />
+      <workItem from="1679233199149" duration="5693000" />
+      <workItem from="1679505542206" duration="1000" />
+      <workItem from="1679505972690" duration="400000" />
+      <workItem from="1682160595007" duration="29000" />
+      <workItem from="1682160631825" duration="44000" />
+      <workItem from="1682252538828" duration="574000" />
+      <workItem from="1686392684579" duration="2194000" />
+      <workItem from="1686395464672" duration="188000" />
+      <workItem from="1686687608434" duration="4000" />
+      <workItem from="1687122729593" duration="11000" />
+      <workItem from="1687122767583" duration="14000" />
+      <workItem from="1693255193761" duration="212000" />
+      <workItem from="1693255412437" duration="143000" />
+      <workItem from="1693515891064" duration="47000" />
+      <workItem from="1693515947313" duration="79000" />
+      <workItem from="1693607201383" duration="423000" />
+      <workItem from="1693691896416" duration="18000" />
+      <workItem from="1693691921241" duration="870000" />
+      <workItem from="1693692806306" duration="225000" />
+      <workItem from="1694647368295" duration="8000" />
+      <workItem from="1695768272578" duration="319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WorkingWithAbstractionLab/HotelReservation/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WorkingWithAbstractionExercise/jediGalaxy/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabEncapsulation/SalaryIncrease/Main.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LabEncapsulation/ValidationData/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EncapsulationExercises/PizzaCalories/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/polymorphismLab/shapes/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/polymorphismLab/wildFarm/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/exercisesPolymorphism/Vehicles/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/labReflectionAndAnnotations/Reflection/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/labReflectionAndAnnotations/gettersAndSetters/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/labReflectionAndAnnotations/highQualityMistakes/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/reflectionExercises/harvestingFields/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/reflectionExercises/blackBoxInteger/Main.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/labExceptionsAndErrorHandling/EnterNumbers.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_OOP$Main.ic" NAME="Main Coverage Results" MODIFIED="1677940237713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>animals.*</FILTER>
+    </SUITE>
+  </component>
+</project>
